@@ -2,7 +2,7 @@
 ## IE2023 - Programación de Microcontroladores
 
 ### Autor
-Fernando José Guzmán González  
+Fernando José Guzman González  
 Carné: 24734
 
 ---
